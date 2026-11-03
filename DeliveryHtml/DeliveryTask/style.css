@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.delivery{
+    max-width: 645px;
+    margin: 0 auto;
+    padding: 134px 60px 80px;
+    text-align: center;
+}
+
+.icon-box{
+    background-color: #bc6f51;
+    border-radius: 0 70px 0 70px;
+    align-items: center;
+    justify-content: center;
+    width: 216px;
+    height: 196px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.icon{
+    font-size: 75px;
+    color: white;
+}
+
+h1{
+    margin-top: 40px;
+    font-size: 40px;
+}
+
+p{
+    margin-top: 20px;
+    font-size: 20px;
+    line-height: 2;
+    color: #757575;
+}
+
+.top-bar{
+    height: 60px;
+    background-color: rgb(215, 215, 215);
+}
